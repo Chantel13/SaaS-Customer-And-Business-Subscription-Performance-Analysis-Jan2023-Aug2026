@@ -70,33 +70,27 @@ Pivot tables and charts were created to compare performance, identify trends and
 
 ## Key Findings and Business Actions
 
-### 1. Revenue performance showed strong growth, with quarterly fluctuations
+### 1. Payment value increased despite fewer paying customers
 
-[View Quarterly Revenue Chart](https://github.com/Chantel13/SaaS-Customer-And-Business-Subscription-Performance-Analysis-Jan2023-Aug2026/raw/main/quarterly-revenue.png)
+Comparing January–August 2025 with the same period in 2026:
 
-Revenue increased substantially from 2023 through 2025. Quarterly revenue grew from approximately R53.1k in Q1 2023 to R728.2k in Q4 2023.
+Net payment value increased from R2.99 million to R3.42 million (+14.7%).
 
-The strongest reported quarter was Q4 2025, at approximately R1.47 million. In 2026, revenue was approximately R1.42 million in Q1 and R1.28 million in Q2.
+Paying customers declined from 973 to 842 (-13.5%).
 
-**Business insight:** Revenue growth is encouraging, but quarterly fluctuations highlight the importance of monitoring performance alongside customer and subscription activity.
+Net payment value per paying customer increased from R3,069.57 to R4,067.63.
 
-**Recommended action:** Compare revenue trends with customer acquisition, cancellations, payment activity and subscription plan performance to identify the factors behind changes.
+Insight: The company generated more payment value from a smaller paying customer base, making customer retention an important area to monitor.
 
 ### 2. Subscription cancellations are a major retention concern
 
-[View Subscription Status Chart](https://github.com/Chantel13/SaaS-Customer-And-Business-Subscription-Performance-Analysis-Jan2023-Aug2026/raw/main/subscription-status.png)
+Of 3,300 recorded subscriptions, 2,528 were cancelled and 772 were active. Approximately 77% of recorded subscriptions were cancelled.
 
-Of 3,300 recorded subscriptions:
-
-- 772 were active.
-- 2,528 were cancelled.
-- Approximately 77% had a cancelled status.
-
-This is a historical subscription-status distribution, not a formal churn rate, because subscriptions started at different times.
+This is a historical status distribution, not a formal churn rate, because subscriptions began at different times.
 
 **Business insight:** The high number of cancelled subscriptions highlights customer retention as an important area for further investigation.
 
-**Recommended action:** Analyse cancellations by customer tenure, acquisition channel, industry, subscription plan, product usage and payment history to identify potential cancellation drivers.
+**Recommendation:** Investigate cancellation timing, customer segments, acquisition channels, and product usage to understand why customers leave.
 
 ### 3. Payment activity increased despite fewer paying customers
 
@@ -138,8 +132,6 @@ Payment success rates changed very little, increasing from 91.38% in 2025 to 91.
 **Recommended action:** Improve payment notifications and recovery processes, investigate refund reasons, and determine whether repeated payment issues are followed by subscription cancellations.
 
 ### 5. Acquisition should be measured by customer value, not just volume
-
-[View Acquisition Channels Chart](https://github.com/Chantel13/SaaS-Customer-And-Business-Subscription-Performance-Analysis-Jan2023-Aug2026/raw/main/acquisition-channels.png)
 
 Referral and Organic Search were among the largest acquisition channels, with 526 and 525 customers respectively.
 
